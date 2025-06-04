@@ -6,7 +6,7 @@ export default function Home() {
       <div className="max-w-2xl text-center">
         <h1 className="text-4xl font-bold text-gray-800 mb-4">Suresh Narayan</h1>
         <p className="text-lg text-gray-600 mb-6">
-          Hi! I'm a web developer passionate about building fast, user-friendly websites.
+          Hi! I am a web developer passionate about building fast, user-friendly websites.
           I specialize in React, Next.js, and Tailwind CSS.
         </p>
         <div className="space-x-4">
